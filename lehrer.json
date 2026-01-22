@@ -46,6 +46,12 @@
         "kuerzel": "KIRS",
         "faecher": "Gesellschaftslehre, Sport",
         "zustaendigkeiten": "",
-        "email": "muhammed.cetinkaya@hhg-duisburg.de"
+        "email": "alexander.kirschul@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "WEIL",
+        "faecher": "Physik, Technik",
+        "zustaendigkeiten": "",
+        "email": "petra.weiler@hhg-duisburg.de"
     }
 ]
