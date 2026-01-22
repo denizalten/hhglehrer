@@ -1,0 +1,32 @@
+[
+    {
+        "kuerzel": "ALTE",
+        "faecher": "Mathematik, Physik",
+        "zustaendigkeiten": "ORGA",
+        "email": "deniz.alten@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "KLUT",
+        "faecher": "Biologie, Mathematik",
+        "zustaendigkeiten": "Stellv. Schulleiterin",
+        "email": "cordula.klueter@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "MERT",
+        "faecher": "Gesellschaftslehre, Hauswirtschaft, Literatur",
+        "zustaendigkeiten": "ORGA",
+        "email": "jana.mertens@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "PRAD",
+        "faecher": "Englisch, Spanisch, Literatur",
+        "zustaendigkeiten": "Schulleiterin",
+        "email": "daniela.prado@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "EULE",
+        "faecher": "DuG, Gesellschaftslehre, Religion",
+        "zustaendigkeiten": "",
+        "email": "janina.euler@hhg-duisburg.de"
+    }
+]
