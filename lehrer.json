@@ -53,5 +53,11 @@
         "faecher": "Physik, Technik",
         "zustaendigkeiten": "",
         "email": "petra.weiler@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "TWEL",
+        "faecher": "Chemie, Technik",
+        "zustaendigkeiten": "IServ",
+        "email": "petra.weiler@hhg-duisburg.de"
     }
 ]
