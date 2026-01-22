@@ -28,5 +28,12 @@
         "faecher": "DuG, Gesellschaftslehre, Religion",
         "zustaendigkeiten": "",
         "email": "janina.euler@hhg-duisburg.de"
+    },
+
+    {
+        "kuerzel": "AVKA",
+        "faecher": "Gesellschaftslehre, Physik",
+        "zustaendigkeiten": "",
+        "email": "oguzhan.avkapan@hhg-duisburg.de"
     }
 ]
