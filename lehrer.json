@@ -59,5 +59,11 @@
         "faecher": "Chemie, Technik",
         "zustaendigkeiten": "IServ",
         "email": "michael.twellmann@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "BEKE",
+        "faecher": "Biologie, Sport",
+        "zustaendigkeiten": "IServ",
+        "email": "christian.becker@hhg-duisburg.de"
     }
 ]
