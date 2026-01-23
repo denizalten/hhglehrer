@@ -65,5 +65,11 @@
         "faecher": "Biologie, Sport",
         "zustaendigkeiten": "",
         "email": "christian.becker@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "GOIK",
+        "faecher": "Physik, Hauswirtschaft, Technik",
+        "zustaendigkeiten": "",
+        "email": "christian.becker@hhg-duisburg.de"
     }
 ]
