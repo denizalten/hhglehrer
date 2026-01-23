@@ -69,6 +69,12 @@
     {
         "kuerzel": "GOIK",
         "faecher": "Physik, Hauswirtschaft, Technik",
+        "zustaendigkeiten": "Abteilungsleitung I",
+        "email": "christian.becker@hhg-duisburg.de"
+    },
+    {
+        "kuerzel": "SMIT",
+        "faecher": "Biologie, Deutsch",
         "zustaendigkeiten": "",
         "email": "christian.becker@hhg-duisburg.de"
     }
